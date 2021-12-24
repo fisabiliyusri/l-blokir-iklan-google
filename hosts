@@ -270,4 +270,11 @@
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 pl16836679.effectivegatetocontent.com
 0.0.0.0 effectivegatetocontent.com
+# block iklan youtube
+# hapus data aplikasi youtube
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 suggestqueries.google.com
+0.0.0.0 connectivitycheck.gstatic.com
+
 
