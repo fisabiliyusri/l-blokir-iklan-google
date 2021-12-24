@@ -244,3 +244,14 @@
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 api16-access-sg.pangle.io
+# block anime-indo
+0.0.0.0 adsco.re
+0.0.0.0 c.adsco.re
+0.0.0.0 l4.adsco.re
+0.0.0.0 n4.adsco.re
+0.0.0.0 s4.adsco.re
+0.0.0.0 185.200.116.90
+0.0.0.0 38.132.109.186
+0.0.0.0 185.200.118.90
+0.0.0.0 pertersacstyli.com
+
