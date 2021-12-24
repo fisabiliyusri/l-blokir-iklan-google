@@ -217,4 +217,26 @@
 0.0.0.0 randallbesin.com
 # block kiryuu apk
 0.0.0.0 config.unityads.unity3d.com
-
+# block komikcast
+0.0.0.0 wovazaix.com
+0.0.0.0 static.cdnativepush.com
+# pahe download
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 cfg.flurry.com
+0.0.0.0 flurry.com
+0.0.0.0 compass.adop.cc
+0.0.0.0 adop.cc
+0.0.0.0 api.adinplay.com
+0.0.0.0 tg1.playstream.media
+0.0.0.0 compass.adop.cc
+0.0.0.0 acdcdn.com
+0.0.0.0 www.hostingcloud.racing
+0.0.0.0 www.onclickalgo.com
+0.0.0.0 ads2.uptobox.com
+0.0.0.0 i.wmgtr.com
+0.0.0.0 yfetyg.com
+0.0.0.0 img.cdn.house
+# block random film
+0.0.0.0 upgulpinon.com
+0.0.0.0 wingersunbrand.com
+0.0.0.0 bedumbserugate.com
