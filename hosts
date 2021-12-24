@@ -270,8 +270,8 @@
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 pl16836679.effectivegatetocontent.com
 0.0.0.0 effectivegatetocontent.com
-# block iklan youtube
-# hapus data aplikasi youtube
+# block iklan youtube mungkin bisa berhasi di block
+# mungkin juga gagal di block inti nya gacha 50%wkwk
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 suggestqueries.google.com
