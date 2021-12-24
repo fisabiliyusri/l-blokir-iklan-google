@@ -1,5 +1,6 @@
 # l-blokir-iklan-google
 blokir iklan google
+• hp wajib sudah di root
 
 cara blokir iklan di hp android
 *note : jika hp sudah di root ,aplikasi root explorer sudah di install dan File Hosts sudah di download ,langsung saja mulai
