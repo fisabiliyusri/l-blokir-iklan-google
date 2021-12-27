@@ -261,3 +261,10 @@
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 pl16836679.effectivegatetocontent.com
 0.0.0.0 effectivegatetocontent.com
+# block iklan porn
+0.0.0.0 run-syndicate.com
+0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 tsyndicate.com
+
