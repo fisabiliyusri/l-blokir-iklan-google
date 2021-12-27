@@ -88,23 +88,15 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 www.googleadservices.com
-0.0.0.0 74.125.24.94
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 encrypted-tbn3.gstatic.com
 0.0.0.0 encrypted-tbn2.gstatic.com
 0.0.0.0 encrypted-tbn1.gstatic.com
 0.0.0.0 encrypted-tbn0.gstatic.com
-0.0.0.0 142.251.10.155
-0.0.0.0 64.233.185.94
-0.0.0.0 142.251.12.157
-0.0.0.0 142.250.4.155
-0.0.0.0 142.251.12.155
-0.0.0.0 142.251.12.154
 0.0.0.0 googleads.g.doubleclick.net:443
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net:53
-0.0.0.0 172.217.194.154
 0.0.0.0 csi.gstatic.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googleadservices.com:443
@@ -130,7 +122,6 @@
 0.0.0.0 23.193.53.117
 0.0.0.0 ms.applovin.com
 0.0.0.0 applovin.com
-0.0.0.0 104.93.120.145:443
 0.0.0.0 a.applovin.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 partners.tremorhub.com
@@ -270,11 +261,3 @@
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 pl16836679.effectivegatetocontent.com
 0.0.0.0 effectivegatetocontent.com
-# block iklan youtube mungkin bisa berhasi di block
-# mungkin juga gagal di block inti nya gacha 50%wkwk
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 suggestqueries.google.com
-0.0.0.0 connectivitycheck.gstatic.com
-
-
