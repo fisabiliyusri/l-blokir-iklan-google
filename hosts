@@ -73,6 +73,88 @@
 0.0.0.0 142.251.10.155
 0.0.0.0 142.251.10.156
 0.0.0.0 142.251.10.157
+0.0.0.0 i-sg.magazine.heytapmobile.com
+
+#ip iklan utama
+0.0.0.0 36.92.238.140
+0.0.0.0 118.98.109.78
+0.0.0.0 36.92.238.143
+0.0.0.0 118.98.109.81
+
+#ip 74.125
+0.0.0.0 74.125.131.100
+0.0.0.0 74.125.131.102
+0.0.0.0 74.125.131.103
+0.0.0.0 74.125.131.104
+0.0.0.0 74.125.131.105
+123.0.0.1 74.125.131.106
+123.0.0.1 74.125.131.107
+123.0.0.1 74.125.131.108
+123.0.0.1 74.125.131.109
+123.0.0.1 74.125.131.110
+123.0.0.1 74.125.131.111
+123.0.0.1 74.125.131.112
+123.0.0.1 74.125.131.113
+123.0.0.1 74.125.131.140
+123.0.0.1 74.125.131.136
+123.0.0.1 74.125.131.137
+123.0.0.1 74.125.131.138
+123.0.0.1 74.125.131.139
+123.0.0.1 74.125.131.140
+123.0.0.1 74.125.131.141
+123.0.0.1 74.125.131.142
+123.0.0.1 74.125.131.133
+123.0.0.1 118.98.109.65
+#118.98
+123.0.0.1 118.98.109.80
+123.0.0.1 118.98.109.76
+123.0.0.1 118.98.109.77
+123.0.0.1 118.98.109.78
+123.0.0.1 118.98.109.79
+123.0.0.1 118.98.109.80
+123.0.0.1 118.98.109.81
+123.0.0.1 118.98.109.82
+123.0.0.1 118.98.109.83
+#36.92
+123.0.0.1 36.92.238.141
+123.0.0.1 36.92.238.143
+123.0.0.1 36.92.238.136
+123.0.0.1 36.92.238.137
+123.0.0.1 36.92.238.138
+123.0.0.1 36.92.238.139
+123.0.0.1 36.92.238.140
+123.0.0.1 36.92.238.141
+123.0.0.1 36.92.238.142
+123.0.0.1 36.92.238.143
+
+#142.251
+123.0.0.1 142.251.12.136
+123.0.0.1 142.251.12.137
+123.0.0.1 142.251.12.138
+123.0.0.1 142.251.12.139
+123.0.0.1 142.251.12.140
+123.0.0.1 142.251.12.141
+123.0.0.1 142.251.12.142
+123.0.0.1 142.251.12.143
+123.0.0.1 142.251.1.96
+123.0.0.1 142.251.1.97
+123.0.0.1 142.251.1.98
+123.0.0.1 142.251.1.99
+123.0.0.1 142.251.1.100
+123.0.0.1 142.251.1.102
+123.0.0.1 142.251.1.103
+
+#142.251
+123.0.0.1 142.251.10.96
+123.0.0.1 142.251.10.97
+123.0.0.1 142.251.10.98
+123.0.0.1 142.251.10.99
+123.0.0.1 142.251.10.100
+123.0.0.1 142.251.10.101
+123.0.0.1 142.251.10.102
+123.0.0.1 142.251.10.103
+
+
 # google host#
 0.0.0.0 www.google-analytics.com
 0.0.0.0 stats.g.doubleclick.net
@@ -95,15 +177,15 @@
 0.0.0.0 142.250.4.155
 0.0.0.0 142.251.12.155
 0.0.0.0 142.251.12.154
-0.0.0.0 googleads.g.doubleclick.net
+123.0.0.1 googleads.g.doubleclick.net
 0.0.0.0 172.217.194.154
 0.0.0.0 csi.gstatic.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 googleads.g.doubleclick.net
+123.0.0.1 pagead2.googleadservices.com
+123.0.0.1 googleads.g.doubleclick.net
 0.0.0.0 a.doubleclick.net
 0.0.0.0 csi.gstatic.com
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
+123.0.0.1 googleads4.g.doubleclick.net
+123.0.0.1 pagead2.googlesyndication.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 adservice.google.com
 #
@@ -272,7 +354,7 @@
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 tsyndicate.com
 # block iklan bacakomik
-0.0.0.0 cdn.statically.io
+
 0.0.0.0 toglooman.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 interstitial-07.com
@@ -287,6 +369,7 @@
 0.0.0.0 agacelebir.com
 0.0.0.0 thaudray.com
 0.0.0.0 usipucxjdat.top
+
 # block revdl
 0.0.0.0 www.displayvertising.com
 0.0.0.0 gadsabs.com
@@ -299,6 +382,7 @@
 0.0.0.0 client.crisp.chat
 0.0.0.0 client.relay.crisp.chat
 0.0.0.0 rajalisensi.com
+
 #block ouo
 0.0.0.0 itineraryupper.com
 0.0.0.0 video.your-notice.com
@@ -325,11 +409,94 @@
 0.0.0.0 118.98.109.77
 0.0.0.0 36.92.238.141
 0.0.0.0 36.92.238.140
-#
+#neko down
 0.0.0.0 go.hpyjmp.com
 0.0.0.0 go.stripchat.com
 0.0.0.0 img.strpst.com
 0.0.0.0 creative.hpyjmp.com
 0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 na.nawpush.com
+0.0.0.0 js.wpushsdk.com
+0.0.0.0 rtbbnr.com
+0.0.0.0 js.natsdk.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 js.cabnnr.com
+0.0.0.0 18.140.37.122
+0.0.0.0 54.254.2.67
+0.0.0.0 serve.popads.net
+0.0.0.0 wonderhsjnsd.com
+0.0.0.0 js.wpadmngr.com
+0.0.0.0 thdifferuken.com
+0.0.0.0 eu.rollmeout.xyz
+0.0.0.0 berlipurplin.com
+0.0.0.0 go.xxxiijmp.com
+0.0.0.0 consequentlyinmate.com
+0.0.0.0 bongacams7.com
+0.0.0.0 www.predictiondexchange.com
+0.0.0.0 bam-cell.nr-data.net
+0.0.0.0 blockadsnot.com
+0.0.0.0 forfrogadiertor.com
+0.0.0.0 pokreess.com
+#123.0.0.1 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 d1u1byonn4po0b.cloudfront.net
+0.0.0.0 d26adrx9c3n0mq.cloudfront.net
+0.0.0.0 poodledopas.cam
+0.0.0.0 itemedjhvh.casa
+0.0.0.0 23.109.248.194
+0.0.0.0 acrisialithic.cam
+0.0.0.0 lousebankroll.com
+# doujin 
+0.0.0.0 poweredby.jads.co
+0.0.0.0 i.jads.co
+0.0.0.0 js.juicyads.com
+0.0.0.0 www.juicyads.rocks
+0.0.0.0 www.poweredbyliquidfire.mobi
+0.0.0.0 f17de80fb1.14419bbfee.com
+0.0.0.0 70b82d7890.746ef86676.com
+0.0.0.0 3f3f7ca16e.14419bbfee.com
+0.0.0.0 cdn44221613.ahacdn.me
+0.0.0.0 js.capndr.com
+0.0.0.0 js.wpushsdk.com
+0.0.0.0 puwpush.com
+0.0.0.0 vidvas3.com
+0.0.0.0 45.133.44.26
+0.0.0.0 45.133.44.25
+0.0.0.0 45.133.44.24
+0.0.0.0 45.133.44.23
+#komik
+0.0.0.0 whoutsog.net
+0.0.0.0 ptawhood.net
+0.0.0.0 mondialwering.com
+0.0.0.0 ads.exosrv.com
+0.0.0.0 couptoug.net
+0.0.0.0 inpagepush.com
+0.0.0.0 egreephu.com
+0.0.0.0 3.bp.blogspot.com
+#mp4 upload
+0.0.0.0 gibeleftyeuro.com
+0.0.0.0 spoilphysiqueteenagers.com
+0.0.0.0 direct.apus.tech
+123.0.0.1 acacdn.com
+123.0.0.1 asacdn.com
+0.0.0.0 platform.bidgear.com
+0.0.0.0 snagbaudhulas.com
+0.0.0.0 geedoovu.net
+0.0.0.0 www.cdn4ads.com
+0.0.0.0 cdn4ads.com
+0.0.0.0 static.cloudflareinsights.com
+0.0.0.0 paychat.fuse-cloud.com
+0.0.0.0 onclickgenius.com
+0.0.0.0 onclickperformance.com
+0.0.0.0 onclickalgo.com
+# block anti block
+8.8.8.8 cdnjs.cloudflare.com
+8.8.8.8 104.16.18.94
+8.8.8.8 104.16.19.94
 #
+0.0.0.0 d.clarity.ms
+0.0.0.0 www.clarity.ms
+
+
 
