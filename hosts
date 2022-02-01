@@ -36,16 +36,10 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
-0.0.0.0 encrypted-tbn3.gstatic.com
-0.0.0.0 encrypted-tbn2.gstatic.com
-0.0.0.0 encrypted-tbn1.gstatic.com
-0.0.0.0 encrypted-tbn0.gstatic.com
 123.0.0.1 googleads.g.doubleclick.net
-0.0.0.0 csi.gstatic.com
 123.0.0.1 pagead2.googleadservices.com
 123.0.0.1 googleads.g.doubleclick.net
 0.0.0.0 a.doubleclick.net
-0.0.0.0 csi.gstatic.com
 123.0.0.1 googleads4.g.doubleclick.net
 123.0.0.1 pagead2.googlesyndication.com
 0.0.0.0 cm.g.doubleclick.net
