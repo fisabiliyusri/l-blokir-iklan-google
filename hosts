@@ -1,6 +1,21 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
 0.0.0.0 0.0.0.0
+#dood
+0.0.0.0 api2.branch.io
+0.0.0.0 dnhfi5nn2dt67.cloudfront.net
+0.0.0.0 freychang.fun
+0.0.0.0 haphazardhum.com
+0.0.0.0 softballwaiting.com
+0.0.0.0 regulationprivilegescan.top
+0.0.0.0 venetrigni.com
+0.0.0.0 ja2n2u30a6rgyd.com
+0.0.0.0 salutationcheerlessdemote.com
+0.0.0.0 baradoot.com
+0.0.0.0 dateddeed.com
+0.0.0.0 nwpyzaqlbbtd.com
+0.0.0.0 www.nwpyzaqlbbtd.com
+
 #  samehadaku #
 0.0.0.0 playerseo.club
 0.0.0.0 p.adsymptotic.com
@@ -345,9 +360,9 @@
 0.0.0.0 onclickperformance.com
 0.0.0.0 onclickalgo.com
 # block anti block
-8.8.8.8 cdnjs.cloudflare.com
-8.8.8.8 104.16.18.94
-8.8.8.8 104.16.19.94
+#8.8.8.8 cdnjs.cloudflare.com
+#8.8.8.8 104.16.18.94
+#8.8.8.8 104.16.19.94
 0.0.0.0 d.clarity.ms
 0.0.0.0 www.clarity.ms
 # baru
