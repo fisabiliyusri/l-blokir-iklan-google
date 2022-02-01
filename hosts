@@ -23,6 +23,9 @@
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 t.dtscout.com
 0.0.0.0 1.bp.blogspot.com
+0.0.0.0 3.bp.blogspot.com
+0.0.0.0 playerseo.club
+0.0.0.0 128.199.142.177
 # sanehadaku#
 0.0.0.0 i-sg.magazine.heytapmobile.com
 # google host#
@@ -36,12 +39,12 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
-123.0.0.1 googleads.g.doubleclick.net
-123.0.0.1 pagead2.googleadservices.com
-123.0.0.1 googleads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 a.doubleclick.net
-123.0.0.1 googleads4.g.doubleclick.net
-123.0.0.1 pagead2.googlesyndication.com
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 adservice.google.com
 #
